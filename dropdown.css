@@ -2,6 +2,10 @@
     display: block;
   }
 
+
+div {
+    display: block;
+}
   .dropdown-submenu {
     position: relative;
 }
